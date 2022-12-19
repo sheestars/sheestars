@@ -62,8 +62,28 @@ footer {
     padding-left:50px;
 }
 
+#somethinginit2 {
+    background-color: rgb(78, 76, 150);
+    color: rgb(235, 235, 235);
+    height: auto; 
+    padding-bottom: 45px;   
+    padding-left:50px;
+}
+
+#somethinginit3 {
+    background-color: rgb(58, 173, 255);
+    color: rgb(235, 235, 235);
+    height: auto; 
+    padding-bottom: 45px;   
+    padding-left:50px;
+}
+
 #taimafanle {
     margin: 0 0 0 0;
+}
+
+#whitea {
+    color:white;
 }
 
 /*News*/
