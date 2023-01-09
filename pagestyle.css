@@ -78,6 +78,14 @@ footer {
     padding-left:50px;
 }
 
+#bilibili {
+    background-color: rgb(255, 122, 193);
+    color: rgba(235, 235, 235, 0.908);
+    height: auto; 
+    padding-bottom: 45px;   
+    padding-left:50px;
+}
+
 #taimafanle {
     margin: 0 0 0 0;
 }
@@ -90,6 +98,7 @@ footer {
 ul.pagination {
     display: inline-block;
     padding-left:50px;
+    padding-right: 88.35%;
     margin-top: -17px;
     margin-bottom: -10px;
 
