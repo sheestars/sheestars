@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1769259426,
-      "filename": "ota20260124gms03",
-      "id": "b6911d9b007d57843d5dd94571abb6bd6cdfce6d",
-      "size": 2788858349,
-      "url": "https://list.bakastation.top/d/TianYi/%E5%85%AC%E5%85%B1/BAKA%E7%9A%84%E5%AE%89%E5%8D%93ROM/marble/AviumUI/AviumUI-16-marble-20260124-Unofficial-GMS.zip?sign=hnWJNfK4uEajfUpZUE8Ss8qE7od9cLmS2eSWQxVFZCM=:0",
-      "version": "AviumUI-16-marble-ota20260124-gms"
+      "datetime": 1769755091,
+      "filename": "ota20260130gms",
+      "id": "7e969a7dfa8ed78c387a4202f43a9594fa523965",
+      "size": 2788753450,
+      "url": "https://list.bakastation.top/d/TianYi/%E5%85%AC%E5%85%B1/BAKA%E7%9A%84%E5%AE%89%E5%8D%93ROM/marble/AviumUI/AviumUI-16-marble-20260130-Unofficial-GMS.zip?sign=FyuES5uq4dJV-blhLr9O_PGRjDfIT8_fEmXnbIYNqCs=:0",
+      "version": "AviumUI-16-marble-20260130-gms"
     }
   ]
 }
